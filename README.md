@@ -18,20 +18,12 @@
 
      ( git clone https://github.com/SetaGanz/CUAX
 
-     ( cd CUAX
-
-     ( git pull
-
-     ( python CMBFX.py
-
 # NOTE
   JIKA SUDAH INSTALL BAHAN YANG DI ATAS LANGSUNG AJA
 
-     ( git clone https://github.com/SetaGanz/CUAX
-
      ( cd CUAX
 
-     ( git pull (otomatis update Script) 
+     ( git pull (otomatis update Script)
 
      ( python CMBFX.py
 
